@@ -1,0 +1,20 @@
+{
+  "name": "html-exercise",
+  "version": "1.0.0",
+  "description": "Practicas de HTML",
+  "main": "index.js",
+  "scripts": {
+    "server": "serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Croupierr/HTML-Exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Croupierr/HTML-Exercise/issues"
+  },
+  "homepage": "https://github.com/Croupierr/HTML-Exercise#readme"
+}
