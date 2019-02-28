@@ -1,8 +1,8 @@
 function calcular (operadorA, operadorB, operacion) {
   let result = 0
-  if (operacion === "suma") {
+  if (operacion === 'suma') {
       result = operadorA + operadorB
-  } else if (operacion === "resta") {
+  } else if (operacion === 'resta') {
       result = operadorA - operadorB
   }
   return result
