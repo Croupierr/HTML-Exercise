@@ -1,5 +1,5 @@
 {
-    "videos" : {
+"videos" : {
       "principal": [
       {
         "id": "1",
@@ -12,7 +12,7 @@
         "title": "Avengers"
       }
       ],
-      "recomendados": [
+"recomendados": [
         {
           "id": "1",
           "img": "https://pbs.twimg.com/media/C_ochfzXsAEG3tY.jpg",
@@ -29,7 +29,7 @@
           "title": "Avengers"
         }
       ],
-      "internacional": [
+"internacional": [
         {
           "id": "1",
           "img": "https://pbs.twimg.com/media/C_ochfzXsAEG3tY.jpg",
